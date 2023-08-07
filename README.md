@@ -1,2 +1,2 @@
 # three_legged_ant
-An with tree legs
+Ant with three legs
